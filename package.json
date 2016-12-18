@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "Small angularjs,node,express,mongodb project",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "project"
+  ],
+  "author": "Himanshu Sharma",
+  "license": "ISC"
+}
